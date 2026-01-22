@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HafızaOyunu", "HafızaOyunu\HafızaOyunu.csproj", "{82F3EEA5-171C-40C5-A054-49BE7DF5FCD0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{7A92F89D-9DA6-46AB-9ABA-1C1FE8420926}"
+	ProjectSection(SolutionItems) = preProject
+		HafızaOyunu\images\1.png = HafızaOyunu\images\1.png
+		HafızaOyunu\images\10.png = HafızaOyunu\images\10.png
+		HafızaOyunu\images\11.png = HafızaOyunu\images\11.png
+		HafızaOyunu\images\12.png = HafızaOyunu\images\12.png
+		HafızaOyunu\images\13.png = HafızaOyunu\images\13.png
+		HafızaOyunu\images\14.png = HafızaOyunu\images\14.png
+		HafızaOyunu\images\15.png = HafızaOyunu\images\15.png
+		HafızaOyunu\images\16.png = HafızaOyunu\images\16.png
+		HafızaOyunu\images\17.png = HafızaOyunu\images\17.png
+		HafızaOyunu\images\18.png = HafızaOyunu\images\18.png
+		HafızaOyunu\images\19.png = HafızaOyunu\images\19.png
+		HafızaOyunu\images\2.png = HafızaOyunu\images\2.png
+		HafızaOyunu\images\20.png = HafızaOyunu\images\20.png
+		HafızaOyunu\images\3.png = HafızaOyunu\images\3.png
+		HafızaOyunu\images\4.png = HafızaOyunu\images\4.png
+		HafızaOyunu\images\5.png = HafızaOyunu\images\5.png
+		HafızaOyunu\images\6.png = HafızaOyunu\images\6.png
+		HafızaOyunu\images\7.png = HafızaOyunu\images\7.png
+		HafızaOyunu\images\8.png = HafızaOyunu\images\8.png
+		HafızaOyunu\images\9.png = HafızaOyunu\images\9.png
+		HafızaOyunu\images\back.png = HafızaOyunu\images\back.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82F3EEA5-171C-40C5-A054-49BE7DF5FCD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82F3EEA5-171C-40C5-A054-49BE7DF5FCD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82F3EEA5-171C-40C5-A054-49BE7DF5FCD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82F3EEA5-171C-40C5-A054-49BE7DF5FCD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

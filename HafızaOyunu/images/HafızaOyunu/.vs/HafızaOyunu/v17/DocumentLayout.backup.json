@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\userx\\Desktop\\CSharpUygulama\\Haf\u0131zaOyunu\\Haf\u0131zaOyunu\\images\\Haf\u0131zaOyunu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82F3EEA5-171C-40C5-A054-49BE7DF5FCD0}|Haf\u0131zaOyunu\\Haf\u0131zaOyunu.csproj|c:\\users\\userx\\desktop\\csharpuygulama\\haf\u0131zaoyunu\\haf\u0131zaoyunu\\images\\haf\u0131zaoyunu\\haf\u0131zaoyunu\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F3EEA5-171C-40C5-A054-49BE7DF5FCD0}|Haf\u0131zaOyunu\\Haf\u0131zaOyunu.csproj|solutionrelative:haf\u0131zaoyunu\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F3EEA5-171C-40C5-A054-49BE7DF5FCD0}|Haf\u0131zaOyunu\\Haf\u0131zaOyunu.csproj|C:\\Users\\userx\\Desktop\\CSharpUygulama\\Haf\u0131zaOyunu\\Haf\u0131zaOyunu\\images\\Haf\u0131zaOyunu\\haf\u0131zaoyunu\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{82F3EEA5-171C-40C5-A054-49BE7DF5FCD0}|Haf\u0131zaOyunu\\Haf\u0131zaOyunu.csproj|solutionrelative:haf\u0131zaoyunu\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F3EEA5-171C-40C5-A054-49BE7DF5FCD0}|Haf\u0131zaOyunu\\Haf\u0131zaOyunu.csproj|C:\\Users\\userx\\Desktop\\CSharpUygulama\\Haf\u0131zaOyunu\\Haf\u0131zaOyunu\\images\\Haf\u0131zaOyunu\\haf\u0131zaoyunu\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{82F3EEA5-171C-40C5-A054-49BE7DF5FCD0}|Haf\u0131zaOyunu\\Haf\u0131zaOyunu.csproj|solutionrelative:haf\u0131zaoyunu\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F3EEA5-171C-40C5-A054-49BE7DF5FCD0}|Haf\u0131zaOyunu\\Haf\u0131zaOyunu.csproj|C:\\Users\\userx\\Desktop\\CSharpUygulama\\Haf\u0131zaOyunu\\Haf\u0131zaOyunu\\images\\Haf\u0131zaOyunu\\haf\u0131zaoyunu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F3EEA5-171C-40C5-A054-49BE7DF5FCD0}|Haf\u0131zaOyunu\\Haf\u0131zaOyunu.csproj|solutionrelative:haf\u0131zaoyunu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\userx\\Desktop\\CSharpUygulama\\Haf\u0131zaOyunu\\Haf\u0131zaOyunu\\images\\Haf\u0131zaOyunu\\Haf\u0131zaOyunu\\GameForm.cs",
+              "RelativeDocumentMoniker": "Haf\u0131zaOyunu\\GameForm.cs",
+              "ToolTip": "C:\\Users\\userx\\Desktop\\CSharpUygulama\\Haf\u0131zaOyunu\\Haf\u0131zaOyunu\\images\\Haf\u0131zaOyunu\\Haf\u0131zaOyunu\\GameForm.cs [Design]",
+              "RelativeToolTip": "Haf\u0131zaOyunu\\GameForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T09:52:51.99Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameForm.cs",
+              "DocumentMoniker": "C:\\Users\\userx\\Desktop\\CSharpUygulama\\Haf\u0131zaOyunu\\Haf\u0131zaOyunu\\images\\Haf\u0131zaOyunu\\Haf\u0131zaOyunu\\GameForm.cs",
+              "RelativeDocumentMoniker": "Haf\u0131zaOyunu\\GameForm.cs",
+              "ToolTip": "C:\\Users\\userx\\Desktop\\CSharpUygulama\\Haf\u0131zaOyunu\\Haf\u0131zaOyunu\\images\\Haf\u0131zaOyunu\\Haf\u0131zaOyunu\\GameForm.cs",
+              "RelativeToolTip": "Haf\u0131zaOyunu\\GameForm.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAawE4AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T09:53:42.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\userx\\Desktop\\CSharpUygulama\\Haf\u0131zaOyunu\\Haf\u0131zaOyunu\\images\\Haf\u0131zaOyunu\\Haf\u0131zaOyunu\\App.config",
+              "RelativeDocumentMoniker": "Haf\u0131zaOyunu\\App.config",
+              "ToolTip": "C:\\Users\\userx\\Desktop\\CSharpUygulama\\Haf\u0131zaOyunu\\Haf\u0131zaOyunu\\images\\Haf\u0131zaOyunu\\Haf\u0131zaOyunu\\App.config",
+              "RelativeToolTip": "Haf\u0131zaOyunu\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-10-10T10:03:01.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\userx\\Desktop\\CSharpUygulama\\Haf\u0131zaOyunu\\Haf\u0131zaOyunu\\images\\Haf\u0131zaOyunu\\Haf\u0131zaOyunu\\Program.cs",
+              "RelativeDocumentMoniker": "Haf\u0131zaOyunu\\Program.cs",
+              "ToolTip": "C:\\Users\\userx\\Desktop\\CSharpUygulama\\Haf\u0131zaOyunu\\Haf\u0131zaOyunu\\images\\Haf\u0131zaOyunu\\Haf\u0131zaOyunu\\Program.cs",
+              "RelativeToolTip": "Haf\u0131zaOyunu\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T09:59:37.585Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

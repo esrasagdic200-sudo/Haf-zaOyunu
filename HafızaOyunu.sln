@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HafızaOyunu", "HafızaOyunu\HafızaOyunu.csproj", "{82F3EEA5-171C-40C5-A054-49BE7DF5FCD0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{7A92F89D-9DA6-46AB-9ABA-1C1FE8420926}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\1.png = ..\..\..\Downloads\1.png
+		..\..\..\AppData\Local\Temp\Rar$DRa13996.14499\10.png = ..\..\..\AppData\Local\Temp\Rar$DRa13996.14499\10.png
+		..\..\..\AppData\Local\Temp\Rar$DRa13996.14499\11.png = ..\..\..\AppData\Local\Temp\Rar$DRa13996.14499\11.png
+		..\..\..\AppData\Local\Temp\Rar$DRa13996.14499\12.png = ..\..\..\AppData\Local\Temp\Rar$DRa13996.14499\12.png
+		..\..\..\AppData\Local\Temp\Rar$DRa13996.14499\13.png = ..\..\..\AppData\Local\Temp\Rar$DRa13996.14499\13.png
+		..\..\..\AppData\Local\Temp\Rar$DRa13996.14499\14.png = ..\..\..\AppData\Local\Temp\Rar$DRa13996.14499\14.png
+		..\..\..\AppData\Local\Temp\Rar$DRa13996.14499\15.png = ..\..\..\AppData\Local\Temp\Rar$DRa13996.14499\15.png
+		..\..\..\AppData\Local\Temp\Rar$DRa13996.14499\16.png = ..\..\..\AppData\Local\Temp\Rar$DRa13996.14499\16.png
+		..\..\..\AppData\Local\Temp\Rar$DRa13996.14499\17.png = ..\..\..\AppData\Local\Temp\Rar$DRa13996.14499\17.png
+		..\..\..\AppData\Local\Temp\Rar$DRa13996.14499\18.png = ..\..\..\AppData\Local\Temp\Rar$DRa13996.14499\18.png
+		..\..\..\AppData\Local\Temp\Rar$DRa13996.14499\19.png = ..\..\..\AppData\Local\Temp\Rar$DRa13996.14499\19.png
+		..\..\..\AppData\Local\Temp\Rar$DRa13996.14499\2.png = ..\..\..\AppData\Local\Temp\Rar$DRa13996.14499\2.png
+		..\..\..\AppData\Local\Temp\Rar$DRa13996.14499\20.png = ..\..\..\AppData\Local\Temp\Rar$DRa13996.14499\20.png
+		..\..\..\AppData\Local\Temp\Rar$DRa13996.14499\3.png = ..\..\..\AppData\Local\Temp\Rar$DRa13996.14499\3.png
+		..\..\..\AppData\Local\Temp\Rar$DRa13996.14499\4.png = ..\..\..\AppData\Local\Temp\Rar$DRa13996.14499\4.png
+		..\..\..\AppData\Local\Temp\Rar$DRa13996.14499\5.png = ..\..\..\AppData\Local\Temp\Rar$DRa13996.14499\5.png
+		..\..\..\AppData\Local\Temp\Rar$DRa13996.14499\6.png = ..\..\..\AppData\Local\Temp\Rar$DRa13996.14499\6.png
+		..\..\..\AppData\Local\Temp\Rar$DRa13996.14499\7.png = ..\..\..\AppData\Local\Temp\Rar$DRa13996.14499\7.png
+		..\..\..\AppData\Local\Temp\Rar$DRa13996.14499\8.png = ..\..\..\AppData\Local\Temp\Rar$DRa13996.14499\8.png
+		..\..\..\AppData\Local\Temp\Rar$DRa13996.14499\9.png = ..\..\..\AppData\Local\Temp\Rar$DRa13996.14499\9.png
+		..\..\..\AppData\Local\Temp\Rar$DRa13996.14499\back.png = ..\..\..\AppData\Local\Temp\Rar$DRa13996.14499\back.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82F3EEA5-171C-40C5-A054-49BE7DF5FCD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82F3EEA5-171C-40C5-A054-49BE7DF5FCD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82F3EEA5-171C-40C5-A054-49BE7DF5FCD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82F3EEA5-171C-40C5-A054-49BE7DF5FCD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
